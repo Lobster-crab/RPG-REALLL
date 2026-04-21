@@ -9,7 +9,7 @@ facing = 0;
 
 level = 1;
 xp = 0;
-xp_require = 0;
+xp_require = 100;
 
 function add_xp(_xp_to_add)
 {

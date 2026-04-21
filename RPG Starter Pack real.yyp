@@ -31,8 +31,11 @@
     {"id":{"name":"obj_attack","path":"objects/obj_attack/obj_attack.yy",},},
     {"id":{"name":"obj_enemy_parent","path":"objects/obj_enemy_parent/obj_enemy_parent.yy",},},
     {"id":{"name":"obj_enemy1","path":"objects/obj_enemy1/obj_enemy1.yy",},},
+    {"id":{"name":"obj_enemy2","path":"objects/obj_enemy2/obj_enemy2.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
+    {"id":{"name":"obj_portall","path":"objects/obj_portall/obj_portall.yy",},},
     {"id":{"name":"obj_slime","path":"objects/obj_slime/obj_slime.yy",},},
+    {"id":{"name":"Rm_2","path":"rooms/Rm_2/Rm_2.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"spr_battle_screen","path":"sprites/spr_battle_screen/spr_battle_screen.yy",},},
     {"id":{"name":"spr_box","path":"sprites/spr_box/spr_box.yy",},},
@@ -53,6 +56,7 @@
     {"id":{"name":"spr_player_walk_left","path":"sprites/spr_player_walk_left/spr_player_walk_left.yy",},},
     {"id":{"name":"spr_player_walk_right","path":"sprites/spr_player_walk_right/spr_player_walk_right.yy",},},
     {"id":{"name":"spr_player_walk_up","path":"sprites/spr_player_walk_up/spr_player_walk_up.yy",},},
+    {"id":{"name":"spr_portall","path":"sprites/spr_portall/spr_portall.yy",},},
     {"id":{"name":"spr_shadow","path":"sprites/spr_shadow/spr_shadow.yy",},},
     {"id":{"name":"spr_slash","path":"sprites/spr_slash/spr_slash.yy",},},
     {"id":{"name":"spr_slime","path":"sprites/spr_slime/spr_slime.yy",},},
@@ -64,6 +68,7 @@
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Rm_2","path":"rooms/Rm_2/Rm_2.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
