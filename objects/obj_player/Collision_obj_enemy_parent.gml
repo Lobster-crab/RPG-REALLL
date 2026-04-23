@@ -7,5 +7,8 @@
 	if (hp <= 0)
 	{
 		room_restart()
+		x = 60;
+		y = 60;
+		hp = hp_total
 	}
  }

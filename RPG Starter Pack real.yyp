@@ -38,6 +38,7 @@
     {"id":{"name":"obj_portall","path":"objects/obj_portall/obj_portall.yy",},},
     {"id":{"name":"obj_slime","path":"objects/obj_slime/obj_slime.yy",},},
     {"id":{"name":"Rm_2","path":"rooms/Rm_2/Rm_2.yy",},},
+    {"id":{"name":"Rm_3","path":"rooms/Rm_3/Rm_3.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"spr_battle_screen","path":"sprites/spr_battle_screen/spr_battle_screen.yy",},},
     {"id":{"name":"spr_boss1","path":"sprites/spr_boss1/spr_boss1.yy",},},
@@ -73,6 +74,7 @@
   "RoomOrderNodes":[
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"Rm_2","path":"rooms/Rm_2/Rm_2.yy",},},
+    {"roomId":{"name":"Rm_3","path":"rooms/Rm_3/Rm_3.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
