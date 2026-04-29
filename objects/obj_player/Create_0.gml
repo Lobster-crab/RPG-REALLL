@@ -10,6 +10,7 @@ facing = 0;
 level = 1;
 xp = 0;
 xp_require = 100;
+boss = 0
 
 function add_xp(_xp_to_add)
 {
@@ -27,7 +28,3 @@ function add_xp(_xp_to_add)
 }
 
 //remove later
-room_goto(Rm_final)
-
-x = 450
-y = 380

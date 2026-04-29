@@ -10,10 +10,11 @@
 		x = 60;
 		y = 60;
 		hp = hp_total
-		if room_exists(Rm_final)
+		
+		if boss = 1
  {
 	 x = 450
-y = 380
+      y = 380
  }
 	}
  }
