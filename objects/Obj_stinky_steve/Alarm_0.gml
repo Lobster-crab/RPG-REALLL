@@ -9,5 +9,5 @@ else
 	target_y = random_range(ystart - 100, ystart + 100);
 }
 
-alarm[1] = 60
 alarm[0] = 60;
+instance_create_layer(x, y, "Instances", obj_stink)

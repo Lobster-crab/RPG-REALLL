@@ -7,14 +7,8 @@
 	if (hp <= 0)
 	{
 		room_restart()
-		x = 60;
-		y = 60;
-		hp = hp_total
-		if room_exists(Rm_final)
- {
-	 x = 450
+		x = 450
 y = 380
- }
+		hp = hp_total
 	}
  }
- 

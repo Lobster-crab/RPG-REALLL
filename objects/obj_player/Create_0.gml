@@ -27,3 +27,7 @@ function add_xp(_xp_to_add)
 }
 
 //remove later
+room_goto(Rm_final)
+
+x = 450
+y = 380
