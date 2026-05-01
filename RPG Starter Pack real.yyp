@@ -69,6 +69,7 @@
     {"id":{"name":"spr_evilsensor","path":"sprites/spr_evilsensor/spr_evilsensor.yy",},},
     {"id":{"name":"spr_flame_slash","path":"sprites/spr_flame_slash/spr_flame_slash.yy",},},
     {"id":{"name":"spr_lava","path":"sprites/spr_lava/spr_lava.yy",},},
+    {"id":{"name":"spr_move_tut","path":"sprites/spr_move_tut/spr_move_tut.yy",},},
     {"id":{"name":"spr_npc1","path":"sprites/spr_npc1/spr_npc1.yy",},},
     {"id":{"name":"spr_player_idle_down","path":"sprites/spr_player_idle_down/spr_player_idle_down.yy",},},
     {"id":{"name":"spr_player_idle_left","path":"sprites/spr_player_idle_left/spr_player_idle_left.yy",},},
