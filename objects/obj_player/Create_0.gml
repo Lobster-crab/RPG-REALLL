@@ -28,3 +28,4 @@ function add_xp(_xp_to_add)
 }
 
 //remove later
+room_goto(Rm_endless)
