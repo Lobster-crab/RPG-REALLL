@@ -54,6 +54,7 @@
     {"id":{"name":"Rm_final","path":"rooms/Rm_final/Rm_final.yy",},},
     {"id":{"name":"Rm_win","path":"rooms/Rm_win/Rm_win.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"spr_attack_tut","path":"sprites/spr_attack_tut/spr_attack_tut.yy",},},
     {"id":{"name":"spr_battle_screen","path":"sprites/spr_battle_screen/spr_battle_screen.yy",},},
     {"id":{"name":"spr_bigstink","path":"sprites/spr_bigstink/spr_bigstink.yy",},},
     {"id":{"name":"spr_boss_final","path":"sprites/spr_boss_final/spr_boss_final.yy",},},
